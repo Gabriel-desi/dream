@@ -50,7 +50,7 @@ function Blogs() {
 
           <div className="flex flex-col md:flex-row items-center bg-white/10 backdrop-blur-md p-6 rounded-xl shadow-lg">
             <img
-              src="/public/Minimal.jp"
+              src="/public/Minimal.jpg"
               alt="Minimal"
               className="h-52 w-full md:w-64 object-cover rounded-lg"
             />
