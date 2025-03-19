@@ -10,7 +10,7 @@ function Blogs() {
         <div className="space-y-12 flex flex-col sm:flex-wrap">
           <div className="flex flex-col md:flex-row items-center bg-white/10 backdrop-blur-md p-6 rounded-xl shadow-lg">
             <img
-              src="/public/Luxury2.jpg"
+              src="https://files.oaiusercontent.com/file-6chmwrVwabZCY6kPSRycQk?se=2025-03-19T17%3A36%3A18Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D4e46e801-0ebd-48e7-a75a-4051c9bcc3e8.webp&sig=XkitNNLTqTlv2UKoXGGdQV1VtpwJNM9UdR8E0bwXy3U%3D"
               alt="Luxury House"
               className="h-52 w-full md:w-64 object-cover rounded-lg"
             />
