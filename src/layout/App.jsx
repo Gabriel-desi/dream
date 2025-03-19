@@ -1,5 +1,5 @@
 // import { useEffect } from "react";
-import Last from "../Components/Last";
+// import Last from "../Components/Last";
 import NavBar from "../Components/NavBar";
 import { Outlet } from "react-router-dom";
 
@@ -21,7 +21,7 @@ function App() {
     <div>
       <NavBar />
       <Outlet />
-      <Last />
+      {/* <Last /> */}
     </div>
   );
 }
