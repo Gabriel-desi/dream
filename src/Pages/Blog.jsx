@@ -11,7 +11,7 @@ function Blogs() {
           <div className="flex flex-col md:flex-row items-center bg-white/10 backdrop-blur-md p-6 rounded-xl shadow-lg">
             <img
               src="/public/Luxuryhouse.jpg"
-              alt=""
+              alt="Luxury House"
               className="h-52 w-full md:w-64 object-cover rounded-lg"
             />
             <div className="md:ml-6 text-center md:text-left">
@@ -31,7 +31,7 @@ function Blogs() {
           <div className="flex flex-col md:flex-row items-center bg-white/10 backdrop-blur-md p-6 rounded-xl shadow-lg">
             <img
               src="/public/Al House.jpg"
-              alt=""
+              alt="Al house"
               className="h-52 w-full md:w-64 object-cover rounded-lg"
             />
             <div className="md:ml-6 text-center md:text-left">
@@ -51,7 +51,7 @@ function Blogs() {
           <div className="flex flex-col md:flex-row items-center bg-white/10 backdrop-blur-md p-6 rounded-xl shadow-lg">
             <img
               src="/public/Minimal.jp"
-              alt="hello"
+              alt="Minimal"
               className="h-52 w-full md:w-64 object-cover rounded-lg"
             />
             <div className="md:ml-6 text-center md:text-left">
