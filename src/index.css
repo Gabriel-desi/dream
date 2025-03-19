@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+.now:hover {
+  color: black;
+  /* transition:0.8s; */
+}
+.gate {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+button {
+  cursor: pointer;
+}
+
+.top {
+  border-bottom: 1px solid white;
+}
+
+.hello {
+  cursor: not-allowed;
+}
+
+.not {
+  cursor: not-allowed;
+}
