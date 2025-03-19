@@ -10,7 +10,7 @@ function Blogs() {
         <div className="space-y-12 flex flex-col sm:flex-wrap">
           <div className="flex flex-col md:flex-row items-center bg-white/10 backdrop-blur-md p-6 rounded-xl shadow-lg">
             <img
-              src="https://www.pinterest.com/pin/694046992610481858/D"
+              src="/Luxuryhouse.jpg"
               alt="Luxury House"
               className="h-52 w-full md:w-64 object-cover rounded-lg"
             />
@@ -30,7 +30,7 @@ function Blogs() {
 
           <div className="flex flex-col md:flex-row items-center bg-white/10 backdrop-blur-md p-6 rounded-xl shadow-lg">
             <img
-              src="https://i.pinimg.com/474x/00/88/95/008895732ecb1097b1513152a7fb9c84.jpg"
+              src="/Al House.jpg"
               alt="Al house"
               className="h-52 w-full md:w-64 object-cover rounded-lg"
             />
@@ -50,7 +50,7 @@ function Blogs() {
 
           <div className="flex flex-col md:flex-row items-center bg-white/10 backdrop-blur-md p-6 rounded-xl shadow-lg">
             <img
-              src="/public/Minimal.jpg"
+              src="/Minimal.jpg"
               alt="Minimal"
               className="h-52 w-full md:w-64 object-cover rounded-lg"
             />

@@ -26,17 +26,15 @@ function Header() {
         </div>
       </div>
 
-      <div className="lg:w-[35rem] flex justify-center items-center sm:w-[10rem]">
+      <div className=" flex justify-center items-center">
         <iframe
-          width="700"
-          height="350"
           src="https://www.youtube.com/embed/NrwWPIzd164?si=MpM41DawwKDb8Ffn"
           title="YouTube video player"
           frameBorder=""
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
           referrerPolicy="strict-origin-when-cross-origin"
           allowFullScreen
-          className="rounded-xl shadow-lg"
+          className="rounded-xl shadow-lg md:w-[35rem] md:h-[20rem]  sm:w-[13rem] sm:h-[20rem]"
         ></iframe>
       </div>
     </header>
