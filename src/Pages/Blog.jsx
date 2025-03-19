@@ -10,7 +10,7 @@ function Blogs() {
         <div className="space-y-12 flex flex-col sm:flex-wrap">
           <div className="flex flex-col md:flex-row items-center bg-white/10 backdrop-blur-md p-6 rounded-xl shadow-lg">
             <img
-              src="/public/Luxuryhouse.jpg"
+              src="/public/Luxury2.jpg"
               alt="Luxury House"
               className="h-52 w-full md:w-64 object-cover rounded-lg"
             />

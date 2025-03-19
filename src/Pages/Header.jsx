@@ -7,7 +7,7 @@ function Header() {
             Gateway to
           </h1>
           <h1 className="text-white text-[2.5rem] font-black pt-3">
-            Dream Homes me
+            Dream Home
           </h1>
           <p className="text-white text-sm mt-5">
             Discover a curated collection of dream homes at your fingertips,
