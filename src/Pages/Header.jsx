@@ -1,6 +1,6 @@
 function Header() {
   return (
-    <header className="bg-gradient-to-r from-gray-800 to-gray-500 min-h-[140vh] flex flex-col items-center max-h-[200vh]">
+    <header className="bg-gradient-to-r from-gray-800 to-gray-500 min-h-[100vh] flex flex-col items-center max-h-[100vh]">
       <div className="flex flex-wrap items-center justify-center w-full p-8">
         <div className="max-w-[90%] text-center md:text-left">
           <h1 className="text-white font-bold text-4xl md:text-5xl pt-16">
