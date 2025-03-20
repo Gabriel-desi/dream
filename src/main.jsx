@@ -7,7 +7,7 @@ import About from "./Pages/About.jsx";
 import Properties from "./Pages/Properties.jsx";
 import Blog from "./Pages/Blog.jsx";
 // import Login from "./Pages/Login.jsx";
-// import Signup from "./Pages/Signup.jsx";
+import Signup from "./Pages/Signup.jsx";
 import App from "./layout/App.jsx";
 // import Auth from "./layout/Auth.jsx";
 const router = createBrowserRouter([
@@ -45,6 +45,14 @@ const router = createBrowserRouter([
       {
         path: "blog",
         element: <Blog />,
+      },
+      {
+        path: "signup",
+        element: <Signup />,
+      },
+      {
+        index: "login",
+        element: <p>Coming soon</p>,
       },
     ],
   },

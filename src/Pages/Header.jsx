@@ -1,6 +1,6 @@
 function Header() {
   return (
-    <header className="bg-gradient-to-r from-gray-800 to-gray-500 min-h-[140vh] flex flex-col items-center max-h-[170vh]">
+    <header className="bg-gradient-to-r from-gray-800 to-gray-500 min-h-[140vh] flex flex-col items-center max-h-[200vh]">
       <div className="flex flex-wrap items-center justify-center w-full p-8">
         <div className="max-w-[90%] text-center md:text-left">
           <h1 className="text-white font-bold text-4xl md:text-5xl pt-16">
@@ -34,7 +34,7 @@ function Header() {
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
           referrerPolicy="strict-origin-when-cross-origin"
           allowFullScreen
-          className="rounded-xl shadow-lg md:w-[35rem] md:h-[20rem]  sm:w-[13rem] sm:h-[20rem]"
+          className="rounded-xl shadow-lg md:w-[35rem] md:h-[20rem]  sm:w-[30rem] sm:h-[55rem]"
         ></iframe>
       </div>
     </header>

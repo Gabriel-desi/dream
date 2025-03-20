@@ -1,6 +1,6 @@
 function Blogs() {
   return (
-    <div className="min-h-[120vh] bg-[url('/public/cool.jpg')] bg-cover bg-center relative">
+    <div className="min-h-[120vh] bg-[url('/cool.jpg')] bg-cover bg-center relative">
       <div className="absolute inset-0 bg-black/40 backdrop-blur-lg"></div>
 
       <div className="relative z-10 text-white px-6 md:px-16 py-20">
